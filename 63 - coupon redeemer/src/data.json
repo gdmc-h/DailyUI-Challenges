@@ -1,0 +1,16 @@
+{
+  "coupons": [
+    {
+      "code": "ABCD-EFGH-ILMN-OPQR",
+      "valid_until" : "21/09/2021",
+      "product": "Ferrari LaFerrari",
+      "img": "https://www.evomagazine.it/files/articoli/5/9/9/59931/B_terzo-richiamo-per-ferrari-laferrari_1.jpg"
+    },
+    {
+      "code": "1234-1234-1234-1234",
+      "valid_until" : "21/09/2020",
+      "product": "Mercedes WT12",
+      "img": "https://via.placeholder.com/250"
+    }
+  ]
+}
